@@ -1,0 +1,9 @@
+*.pyc
+*.txt
+*.egg
+*.log
+*.bak
+*.c
+PKG-INFO
+build/*
+cython/build/*
