@@ -1,7 +1,5 @@
 Gemini is a cryptocurrency arbitrage trading algorithm. By default it simulates trades. If you wish to trade live (mode "LIVE", trade at your own risks. There is no guarantee whatsoever that you will not make losses either because of a bug in the code or if the execution is too slow. In fact, you should always monitor the trading activity carefully, and adjust your profit target depending on the lags with the exchanges)
 
-Either use Docker and follow DockerHowTo.txt, or use the following instructions:
-
 Instructions for Windows (could be easily made compatible with Linux. TODO: test on Linux)
 - Install or upgrade to Python 3.6.5+
 - Install or upgrade to NodeJs 8.10.0+
